@@ -6,7 +6,7 @@ This project implements SLAM (Simultaneous Localization and Mapping) for a 2 dim
 
 Below is the output of the model, an 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world; in your work you will likely generate a variety of these maps.
 
-![](images/output)
+![](images/output.PNG)
 
 The estimated landmark is near to the true landmark at maximum distance of 2 units. Please find below the approciate values achieved:
 true final pose (x=21.34746, y=36.55557) estimate final pose (x=22.76562, y=37.40007)
